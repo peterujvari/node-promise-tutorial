@@ -40,7 +40,7 @@ function sleep() {
 
 function haveAnyToothpaste(cb) {
   console.log('I have toothpaste: ' + (haveToothpaste ? 'yes' : 'no'));
-  cb(null, haveToothpaste);
+  cb(!haveToothpaste, haveToothpaste);
 }
 
 function brushTeeth() {
