@@ -9,9 +9,7 @@ Ignac is an ordinary person, who does the same things every morning. Through his
 01. Simple sync sequence
 02. Sync sequence with callbacks
 03. Async sequence with callbacks
-04. Promise without/with resolve/reject
-05. Promise then and catch
-06. Promise with callback resolve
-07. Embed promises
-08. Promise chains
-09. Promise chain with catches
+04. Promise, resolve, reject, callback, etc...
+05. Embed promises
+06. Promise chains
+07. Promise chain with catches
